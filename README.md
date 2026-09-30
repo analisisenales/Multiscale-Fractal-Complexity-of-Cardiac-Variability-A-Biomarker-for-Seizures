@@ -1,4 +1,4 @@
-# Multiscale Fractal Complexity of Cardiac Variability: A Predictive Biomarker for SeizuresFractalApp — Sierpinski Fractal Generator for HRV Time Series
+# Multiscale Fractal Complexity of Cardiac Variability: A Biomarker for SeizuresFractalApp — Sierpinski Fractal Generator for HRV Time Series
 **Author:** Alma Rocío Patiño Chávez, Gael Aguirre-Cruz, Erik Leonardo Mateos-Salgado, Salvador Quiroz-Gonzalez, Federico Menendez-Conde Lara  and Erika Elizabeth Rodriguez-Torres
 **Version:** 1.0  
 
